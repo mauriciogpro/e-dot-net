@@ -1,0 +1,9 @@
+Z:\Projects\Cap4\1ifsimplepagodeempledos\pjCaso41\bin\Debug\pjCaso41.exe.config
+Z:\Projects\Cap4\1ifsimplepagodeempledos\pjCaso41\bin\Debug\pjCaso41.exe
+Z:\Projects\Cap4\1ifsimplepagodeempledos\pjCaso41\bin\Debug\pjCaso41.pdb
+Z:\Projects\Cap4\1ifsimplepagodeempledos\pjCaso41\obj\Debug\pjCaso41.csprojResolveAssemblyReference.cache
+Z:\Projects\Cap4\1ifsimplepagodeempledos\pjCaso41\obj\Debug\pjCaso41.frmPago.resources
+Z:\Projects\Cap4\1ifsimplepagodeempledos\pjCaso41\obj\Debug\pjCaso41.Properties.Resources.resources
+Z:\Projects\Cap4\1ifsimplepagodeempledos\pjCaso41\obj\Debug\pjCaso41.csproj.GenerateResource.Cache
+Z:\Projects\Cap4\1ifsimplepagodeempledos\pjCaso41\obj\Debug\pjCaso41.exe
+Z:\Projects\Cap4\1ifsimplepagodeempledos\pjCaso41\obj\Debug\pjCaso41.pdb

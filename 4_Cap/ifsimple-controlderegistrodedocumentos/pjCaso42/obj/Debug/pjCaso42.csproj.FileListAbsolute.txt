@@ -1,0 +1,8 @@
+Z:\Projects\Cap4\ifsimple-controlderegistrodedocumentos\pjCaso42\bin\Debug\pjCaso42.exe.config
+Z:\Projects\Cap4\ifsimple-controlderegistrodedocumentos\pjCaso42\bin\Debug\pjCaso42.exe
+Z:\Projects\Cap4\ifsimple-controlderegistrodedocumentos\pjCaso42\bin\Debug\pjCaso42.pdb
+Z:\Projects\Cap4\ifsimple-controlderegistrodedocumentos\pjCaso42\obj\Debug\pjCaso42.Form1.resources
+Z:\Projects\Cap4\ifsimple-controlderegistrodedocumentos\pjCaso42\obj\Debug\pjCaso42.Properties.Resources.resources
+Z:\Projects\Cap4\ifsimple-controlderegistrodedocumentos\pjCaso42\obj\Debug\pjCaso42.csproj.GenerateResource.Cache
+Z:\Projects\Cap4\ifsimple-controlderegistrodedocumentos\pjCaso42\obj\Debug\pjCaso42.exe
+Z:\Projects\Cap4\ifsimple-controlderegistrodedocumentos\pjCaso42\obj\Debug\pjCaso42.pdb

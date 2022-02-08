@@ -1,0 +1,4 @@
+c:\users\maugo\documents\visual studio 2015\Projects\ControlNotas\ControlNotas\bin\Debug\ControlNotas.exe.config
+c:\users\maugo\documents\visual studio 2015\Projects\ControlNotas\ControlNotas\obj\Debug\ControlNotas.csprojResolveAssemblyReference.cache
+c:\users\maugo\documents\visual studio 2015\Projects\ControlNotas\ControlNotas\obj\Debug\ControlNotas.Properties.Resources.resources
+c:\users\maugo\documents\visual studio 2015\Projects\ControlNotas\ControlNotas\obj\Debug\ControlNotas.csproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+c:\users\mauricio\documents\visual studio 2015\Projects\ControldeAreayVolumen33\ControldeAreayVolumen33\bin\Debug\ControldeAreayVolumen33.exe.config
+c:\users\mauricio\documents\visual studio 2015\Projects\ControldeAreayVolumen33\ControldeAreayVolumen33\bin\Debug\ControldeAreayVolumen33.exe
+c:\users\mauricio\documents\visual studio 2015\Projects\ControldeAreayVolumen33\ControldeAreayVolumen33\bin\Debug\ControldeAreayVolumen33.pdb
+c:\users\mauricio\documents\visual studio 2015\Projects\ControldeAreayVolumen33\ControldeAreayVolumen33\obj\Debug\ControldeAreayVolumen33.csprojResolveAssemblyReference.cache
+c:\users\mauricio\documents\visual studio 2015\Projects\ControldeAreayVolumen33\ControldeAreayVolumen33\obj\Debug\ControldeAreayVolumen33.frmRollo.resources
+c:\users\mauricio\documents\visual studio 2015\Projects\ControldeAreayVolumen33\ControldeAreayVolumen33\obj\Debug\ControldeAreayVolumen33.Properties.Resources.resources
+c:\users\mauricio\documents\visual studio 2015\Projects\ControldeAreayVolumen33\ControldeAreayVolumen33\obj\Debug\ControldeAreayVolumen33.csproj.GenerateResource.Cache
+c:\users\mauricio\documents\visual studio 2015\Projects\ControldeAreayVolumen33\ControldeAreayVolumen33\obj\Debug\ControldeAreayVolumen33.exe
+c:\users\mauricio\documents\visual studio 2015\Projects\ControldeAreayVolumen33\ControldeAreayVolumen33\obj\Debug\ControldeAreayVolumen33.pdb
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\Cap3\3controldeAreayVolumen\ControldeAreayVolumen33\bin\Debug\ControldeAreayVolumen33.exe.config
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\Cap3\3controldeAreayVolumen\ControldeAreayVolumen33\obj\Debug\ControldeAreayVolumen33.exe
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\Cap3\3controldeAreayVolumen\ControldeAreayVolumen33\obj\Debug\ControldeAreayVolumen33.pdb

@@ -1,0 +1,12 @@
+c:\users\mauricio\documents\visual studio 2015\Projects\pagoempleados\pagoempleados\bin\Debug\pagoempleados.exe.config
+c:\users\mauricio\documents\visual studio 2015\Projects\pagoempleados\pagoempleados\obj\Debug\pagoempleados.csprojResolveAssemblyReference.cache
+c:\users\mauricio\documents\visual studio 2015\Projects\pagoempleados\pagoempleados\obj\Debug\pagoempleados.formPagoEmpleado.resources
+c:\users\mauricio\documents\visual studio 2015\Projects\pagoempleados\pagoempleados\obj\Debug\pagoempleados.Properties.Resources.resources
+c:\users\mauricio\documents\visual studio 2015\Projects\pagoempleados\pagoempleados\obj\Debug\pagoempleados.csproj.GenerateResource.Cache
+c:\users\mauricio\documents\visual studio 2015\Projects\pagoempleados\pagoempleados\bin\Debug\pagoempleados.exe
+c:\users\mauricio\documents\visual studio 2015\Projects\pagoempleados\pagoempleados\bin\Debug\pagoempleados.pdb
+c:\users\mauricio\documents\visual studio 2015\Projects\pagoempleados\pagoempleados\obj\Debug\pagoempleados.exe
+c:\users\mauricio\documents\visual studio 2015\Projects\pagoempleados\pagoempleados\obj\Debug\pagoempleados.pdb
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\Cap3\1pagoempleados\pagoempleados\bin\Debug\pagoempleados.exe.config
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\Cap3\1pagoempleados\pagoempleados\obj\Debug\pagoempleados.exe
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\Cap3\1pagoempleados\pagoempleados\obj\Debug\pagoempleados.pdb

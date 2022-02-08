@@ -1,0 +1,9 @@
+Z:\Projects\4_Cap\7switch-registro_De_Llamadas\registro_De_Llamadas\bin\Debug\registro_De_Llamadas.exe.config
+Z:\Projects\4_Cap\7switch-registro_De_Llamadas\registro_De_Llamadas\bin\Debug\registro_De_Llamadas.exe
+Z:\Projects\4_Cap\7switch-registro_De_Llamadas\registro_De_Llamadas\bin\Debug\registro_De_Llamadas.pdb
+Z:\Projects\4_Cap\7switch-registro_De_Llamadas\registro_De_Llamadas\obj\Debug\registro_De_Llamadas.csprojResolveAssemblyReference.cache
+Z:\Projects\4_Cap\7switch-registro_De_Llamadas\registro_De_Llamadas\obj\Debug\registro_De_Llamadas.frmLlamadas.resources
+Z:\Projects\4_Cap\7switch-registro_De_Llamadas\registro_De_Llamadas\obj\Debug\registro_De_Llamadas.Properties.Resources.resources
+Z:\Projects\4_Cap\7switch-registro_De_Llamadas\registro_De_Llamadas\obj\Debug\registro_De_Llamadas.csproj.GenerateResource.Cache
+Z:\Projects\4_Cap\7switch-registro_De_Llamadas\registro_De_Llamadas\obj\Debug\registro_De_Llamadas.exe
+Z:\Projects\4_Cap\7switch-registro_De_Llamadas\registro_De_Llamadas\obj\Debug\registro_De_Llamadas.pdb

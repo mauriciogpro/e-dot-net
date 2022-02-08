@@ -1,0 +1,9 @@
+Z:\5_Cap\for_seguros_de_vida\for_seguros_de_vida\bin\Debug\for_seguros_de_vida.exe.config
+Z:\5_Cap\for_seguros_de_vida\for_seguros_de_vida\bin\Debug\for_seguros_de_vida.exe
+Z:\5_Cap\for_seguros_de_vida\for_seguros_de_vida\bin\Debug\for_seguros_de_vida.pdb
+Z:\5_Cap\for_seguros_de_vida\for_seguros_de_vida\obj\Debug\for_seguros_de_vida.csprojResolveAssemblyReference.cache
+Z:\5_Cap\for_seguros_de_vida\for_seguros_de_vida\obj\Debug\for_seguros_de_vida.frmProformas.resources
+Z:\5_Cap\for_seguros_de_vida\for_seguros_de_vida\obj\Debug\for_seguros_de_vida.Properties.Resources.resources
+Z:\5_Cap\for_seguros_de_vida\for_seguros_de_vida\obj\Debug\for_seguros_de_vida.csproj.GenerateResource.Cache
+Z:\5_Cap\for_seguros_de_vida\for_seguros_de_vida\obj\Debug\for_seguros_de_vida.exe
+Z:\5_Cap\for_seguros_de_vida\for_seguros_de_vida\obj\Debug\for_seguros_de_vida.pdb

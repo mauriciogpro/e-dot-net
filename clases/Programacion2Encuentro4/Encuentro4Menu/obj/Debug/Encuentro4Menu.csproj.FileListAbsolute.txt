@@ -1,0 +1,14 @@
+c:\users\mauricio\documents\visual studio 2015\Projects\Programacion2Encuentro4\Encuentro4Menu\bin\Debug\Encuentro4Menu.exe.config
+c:\users\mauricio\documents\visual studio 2015\Projects\Programacion2Encuentro4\Encuentro4Menu\bin\Debug\Encuentro4Menu.exe
+c:\users\mauricio\documents\visual studio 2015\Projects\Programacion2Encuentro4\Encuentro4Menu\bin\Debug\Encuentro4Menu.pdb
+c:\users\mauricio\documents\visual studio 2015\Projects\Programacion2Encuentro4\Encuentro4Menu\obj\Debug\Encuentro4Menu.csprojResolveAssemblyReference.cache
+c:\users\mauricio\documents\visual studio 2015\Projects\Programacion2Encuentro4\Encuentro4Menu\obj\Debug\Encuentro4Menu.Form1.resources
+c:\users\mauricio\documents\visual studio 2015\Projects\Programacion2Encuentro4\Encuentro4Menu\obj\Debug\Encuentro4Menu.frmCarga.resources
+c:\users\mauricio\documents\visual studio 2015\Projects\Programacion2Encuentro4\Encuentro4Menu\obj\Debug\Encuentro4Menu.Properties.Resources.resources
+c:\users\mauricio\documents\visual studio 2015\Projects\Programacion2Encuentro4\Encuentro4Menu\obj\Debug\Encuentro4Menu.csproj.GenerateResource.Cache
+c:\users\mauricio\documents\visual studio 2015\Projects\Programacion2Encuentro4\Encuentro4Menu\obj\Debug\Encuentro4Menu.exe
+c:\users\mauricio\documents\visual studio 2015\Projects\Programacion2Encuentro4\Encuentro4Menu\obj\Debug\Encuentro4Menu.pdb
+c:\users\mauricio\documents\visual studio 2015\Projects\Programacion2Encuentro4\Encuentro4Menu\obj\Debug\Encuentro4Menu.frmListado.resources
+Z:\Projects\Clases\Programacion2Encuentro4\Encuentro4Menu\bin\Debug\Encuentro4Menu.exe.config
+Z:\Projects\Clases\Programacion2Encuentro4\Encuentro4Menu\obj\Debug\Encuentro4Menu.exe
+Z:\Projects\Clases\Programacion2Encuentro4\Encuentro4Menu\obj\Debug\Encuentro4Menu.pdb

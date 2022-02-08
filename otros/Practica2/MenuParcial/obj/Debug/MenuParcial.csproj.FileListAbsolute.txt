@@ -1,0 +1,9 @@
+Z:\Projects\Practica\Practica2\MenuParcial\bin\Debug\MenuParcial.exe.config
+Z:\Projects\Practica\Practica2\MenuParcial\bin\Debug\MenuParcial.exe
+Z:\Projects\Practica\Practica2\MenuParcial\bin\Debug\MenuParcial.pdb
+Z:\Projects\Practica\Practica2\MenuParcial\obj\Debug\MenuParcial.frmListado.resources
+Z:\Projects\Practica\Practica2\MenuParcial\obj\Debug\MenuParcial.Properties.Resources.resources
+Z:\Projects\Practica\Practica2\MenuParcial\obj\Debug\MenuParcial.csproj.GenerateResource.Cache
+Z:\Projects\Practica\Practica2\MenuParcial\obj\Debug\MenuParcial.exe
+Z:\Projects\Practica\Practica2\MenuParcial\obj\Debug\MenuParcial.pdb
+Z:\Projects\Practica\Practica2\MenuParcial\obj\Debug\MenuParcial.Form1.resources

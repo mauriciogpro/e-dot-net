@@ -1,0 +1,5 @@
+c:\users\maugo\documents\visual studio 2015\Projects\Cap1App3\Cap1App3\bin\Debug\Cap1App3.exe.config
+c:\users\maugo\documents\visual studio 2015\Projects\Cap1App3\Cap1App3\bin\Debug\Cap1App3.exe
+c:\users\maugo\documents\visual studio 2015\Projects\Cap1App3\Cap1App3\bin\Debug\Cap1App3.pdb
+c:\users\maugo\documents\visual studio 2015\Projects\Cap1App3\Cap1App3\obj\Debug\Cap1App3.exe
+c:\users\maugo\documents\visual studio 2015\Projects\Cap1App3\Cap1App3\obj\Debug\Cap1App3.pdb

@@ -1,0 +1,10 @@
+c:\users\maugo\documents\visual studio 2015\Projects\TP3Act1\TP3Act1\bin\Debug\TP3Act1.exe.config
+c:\users\maugo\documents\visual studio 2015\Projects\TP3Act1\TP3Act1\bin\Debug\TP3Act1.exe
+c:\users\maugo\documents\visual studio 2015\Projects\TP3Act1\TP3Act1\bin\Debug\TP3Act1.pdb
+c:\users\maugo\documents\visual studio 2015\Projects\TP3Act1\TP3Act1\bin\Debug\TP3Act1.xml
+c:\users\maugo\documents\visual studio 2015\Projects\TP3Act1\TP3Act1\obj\Debug\TP3Act1.vbprojResolveAssemblyReference.cache
+c:\users\maugo\documents\visual studio 2015\Projects\TP3Act1\TP3Act1\obj\Debug\TP3Act1.Resources.resources
+c:\users\maugo\documents\visual studio 2015\Projects\TP3Act1\TP3Act1\obj\Debug\TP3Act1.vbproj.GenerateResource.Cache
+c:\users\maugo\documents\visual studio 2015\Projects\TP3Act1\TP3Act1\obj\Debug\TP3Act1.exe
+c:\users\maugo\documents\visual studio 2015\Projects\TP3Act1\TP3Act1\obj\Debug\TP3Act1.xml
+c:\users\maugo\documents\visual studio 2015\Projects\TP3Act1\TP3Act1\obj\Debug\TP3Act1.pdb

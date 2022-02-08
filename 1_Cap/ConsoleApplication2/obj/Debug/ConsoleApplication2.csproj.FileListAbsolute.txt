@@ -1,0 +1,5 @@
+c:\users\mauricio\documents\visual studio 2015\Projects\Unidad1 Ejemplos\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\mauricio\documents\visual studio 2015\Projects\Unidad1 Ejemplos\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\mauricio\documents\visual studio 2015\Projects\Unidad1 Ejemplos\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\mauricio\documents\visual studio 2015\Projects\Unidad1 Ejemplos\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\mauricio\documents\visual studio 2015\Projects\Unidad1 Ejemplos\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

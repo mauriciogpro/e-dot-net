@@ -1,0 +1,6 @@
+c:\users\maugo\documents\visual studio 2015\Projects\Cap1App5\Cap1App5\bin\Debug\Cap1App5.exe.config
+c:\users\maugo\documents\visual studio 2015\Projects\Cap1App5\Cap1App5\bin\Debug\Cap1App5.exe
+c:\users\maugo\documents\visual studio 2015\Projects\Cap1App5\Cap1App5\bin\Debug\Cap1App5.pdb
+c:\users\maugo\documents\visual studio 2015\Projects\Cap1App5\Cap1App5\obj\Debug\Cap1App5.csprojResolveAssemblyReference.cache
+c:\users\maugo\documents\visual studio 2015\Projects\Cap1App5\Cap1App5\obj\Debug\Cap1App5.exe
+c:\users\maugo\documents\visual studio 2015\Projects\Cap1App5\Cap1App5\obj\Debug\Cap1App5.pdb

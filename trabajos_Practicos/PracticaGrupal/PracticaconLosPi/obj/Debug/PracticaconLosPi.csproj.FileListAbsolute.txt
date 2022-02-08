@@ -1,0 +1,11 @@
+D:\CERVANTES\PROYECTOS\PracticaGrupal\PracticaconLosPi\bin\Debug\PracticaconLosPi.exe.config
+D:\CERVANTES\PROYECTOS\PracticaGrupal\PracticaconLosPi\bin\Debug\PracticaconLosPi.exe
+D:\CERVANTES\PROYECTOS\PracticaGrupal\PracticaconLosPi\bin\Debug\PracticaconLosPi.pdb
+D:\CERVANTES\PROYECTOS\PracticaGrupal\PracticaconLosPi\obj\Debug\PracticaconLosPi.csprojResolveAssemblyReference.cache
+D:\CERVANTES\PROYECTOS\PracticaGrupal\PracticaconLosPi\obj\Debug\PracticaconLosPi.Carga.resources
+D:\CERVANTES\PROYECTOS\PracticaGrupal\PracticaconLosPi\obj\Debug\PracticaconLosPi.Listado.resources
+D:\CERVANTES\PROYECTOS\PracticaGrupal\PracticaconLosPi\obj\Debug\PracticaconLosPi.Menu.resources
+D:\CERVANTES\PROYECTOS\PracticaGrupal\PracticaconLosPi\obj\Debug\PracticaconLosPi.Properties.Resources.resources
+D:\CERVANTES\PROYECTOS\PracticaGrupal\PracticaconLosPi\obj\Debug\PracticaconLosPi.csproj.GenerateResource.Cache
+D:\CERVANTES\PROYECTOS\PracticaGrupal\PracticaconLosPi\obj\Debug\PracticaconLosPi.exe
+D:\CERVANTES\PROYECTOS\PracticaGrupal\PracticaconLosPi\obj\Debug\PracticaconLosPi.pdb

@@ -1,0 +1,9 @@
+Z:\5_Cap\while_control_de_facturas\while_control_de_facturas\bin\Debug\while_control_de_facturas.exe.config
+Z:\5_Cap\while_control_de_facturas\while_control_de_facturas\bin\Debug\while_control_de_facturas.exe
+Z:\5_Cap\while_control_de_facturas\while_control_de_facturas\bin\Debug\while_control_de_facturas.pdb
+Z:\5_Cap\while_control_de_facturas\while_control_de_facturas\obj\Debug\while_control_de_facturas.csprojResolveAssemblyReference.cache
+Z:\5_Cap\while_control_de_facturas\while_control_de_facturas\obj\Debug\while_control_de_facturas.Form1.resources
+Z:\5_Cap\while_control_de_facturas\while_control_de_facturas\obj\Debug\while_control_de_facturas.Properties.Resources.resources
+Z:\5_Cap\while_control_de_facturas\while_control_de_facturas\obj\Debug\while_control_de_facturas.csproj.GenerateResource.Cache
+Z:\5_Cap\while_control_de_facturas\while_control_de_facturas\obj\Debug\while_control_de_facturas.exe
+Z:\5_Cap\while_control_de_facturas\while_control_de_facturas\obj\Debug\while_control_de_facturas.pdb

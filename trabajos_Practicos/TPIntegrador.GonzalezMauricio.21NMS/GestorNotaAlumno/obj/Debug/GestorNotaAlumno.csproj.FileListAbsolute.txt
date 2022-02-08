@@ -1,0 +1,27 @@
+D:\CERVANTES\PROYECTOS\TPIntegrador.MateosMarcos.21NMS\GestorNotaAlumno\bin\Debug\GestorNotaAlumno.exe.config
+D:\CERVANTES\PROYECTOS\TPIntegrador.MateosMarcos.21NMS\GestorNotaAlumno\bin\Debug\GestorNotaAlumno.exe
+D:\CERVANTES\PROYECTOS\TPIntegrador.MateosMarcos.21NMS\GestorNotaAlumno\bin\Debug\GestorNotaAlumno.pdb
+D:\CERVANTES\PROYECTOS\TPIntegrador.MateosMarcos.21NMS\GestorNotaAlumno\obj\Debug\GestorNotaAlumno.csprojResolveAssemblyReference.cache
+D:\CERVANTES\PROYECTOS\TPIntegrador.MateosMarcos.21NMS\GestorNotaAlumno\obj\Debug\GestorNotaAlumno.Estadisticas.resources
+D:\CERVANTES\PROYECTOS\TPIntegrador.MateosMarcos.21NMS\GestorNotaAlumno\obj\Debug\GestorNotaAlumno.frmCarga.resources
+D:\CERVANTES\PROYECTOS\TPIntegrador.MateosMarcos.21NMS\GestorNotaAlumno\obj\Debug\GestorNotaAlumno.Listado.resources
+D:\CERVANTES\PROYECTOS\TPIntegrador.MateosMarcos.21NMS\GestorNotaAlumno\obj\Debug\GestorNotaAlumno.Menu.resources
+D:\CERVANTES\PROYECTOS\TPIntegrador.MateosMarcos.21NMS\GestorNotaAlumno\obj\Debug\GestorNotaAlumno.Properties.Resources.resources
+D:\CERVANTES\PROYECTOS\TPIntegrador.MateosMarcos.21NMS\GestorNotaAlumno\obj\Debug\GestorNotaAlumno.csproj.GenerateResource.Cache
+D:\CERVANTES\PROYECTOS\TPIntegrador.MateosMarcos.21NMS\GestorNotaAlumno\obj\Debug\GestorNotaAlumno.exe
+D:\CERVANTES\PROYECTOS\TPIntegrador.MateosMarcos.21NMS\GestorNotaAlumno\obj\Debug\GestorNotaAlumno.pdb
+C:\Users\fluca\Desktop\TP PROGRAMACION\TPIntegrador.MateosMarcos.21NMS\GestorNotaAlumno\bin\Debug\GestorNotaAlumno.exe.config
+C:\Users\fluca\Desktop\TP PROGRAMACION\TPIntegrador.MateosMarcos.21NMS\GestorNotaAlumno\obj\Debug\GestorNotaAlumno.exe
+C:\Users\fluca\Desktop\TP PROGRAMACION\TPIntegrador.MateosMarcos.21NMS\GestorNotaAlumno\obj\Debug\GestorNotaAlumno.pdb
+C:\Users\fluca\Desktop\TP PROGRAMACION\TPIntegrador.MateosMarcos.21NMS\GestorNotaAlumno\bin\Debug\GestorNotaAlumno.exe
+C:\Users\fluca\Desktop\TP PROGRAMACION\TPIntegrador.MateosMarcos.21NMS\GestorNotaAlumno\bin\Debug\GestorNotaAlumno.pdb
+C:\Users\fluca\Desktop\TP PROGRAMACION\TPIntegrador.MateosMarcos.21NMS\GestorNotaAlumno\obj\Debug\GestorNotaAlumno.csprojResolveAssemblyReference.cache
+C:\Users\fluca\Desktop\TP PROGRAMACION\TPIntegrador.MateosMarcos.21NMS\GestorNotaAlumno\obj\Debug\GestorNotaAlumno.Estadisticas.resources
+C:\Users\fluca\Desktop\TP PROGRAMACION\TPIntegrador.MateosMarcos.21NMS\GestorNotaAlumno\obj\Debug\GestorNotaAlumno.frmCarga.resources
+C:\Users\fluca\Desktop\TP PROGRAMACION\TPIntegrador.MateosMarcos.21NMS\GestorNotaAlumno\obj\Debug\GestorNotaAlumno.Listado.resources
+C:\Users\fluca\Desktop\TP PROGRAMACION\TPIntegrador.MateosMarcos.21NMS\GestorNotaAlumno\obj\Debug\GestorNotaAlumno.Menu.resources
+C:\Users\fluca\Desktop\TP PROGRAMACION\TPIntegrador.MateosMarcos.21NMS\GestorNotaAlumno\obj\Debug\GestorNotaAlumno.Properties.Resources.resources
+C:\Users\fluca\Desktop\TP PROGRAMACION\TPIntegrador.MateosMarcos.21NMS\GestorNotaAlumno\obj\Debug\GestorNotaAlumno.csproj.GenerateResource.Cache
+C:\Users\fluca\Desktop\TP PROGRAMACION\TPIntegrador.MarquezFedericoLucas.21NMS\GestorNotaAlumno\bin\Debug\GestorNotaAlumno.exe.config
+C:\Users\fluca\Desktop\TP PROGRAMACION\TPIntegrador.MarquezFedericoLucas.21NMS\GestorNotaAlumno\obj\Debug\GestorNotaAlumno.exe
+C:\Users\fluca\Desktop\TP PROGRAMACION\TPIntegrador.MarquezFedericoLucas.21NMS\GestorNotaAlumno\obj\Debug\GestorNotaAlumno.pdb

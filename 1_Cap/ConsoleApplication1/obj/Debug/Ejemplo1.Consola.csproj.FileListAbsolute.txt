@@ -1,0 +1,6 @@
+c:\users\mauricio\documents\visual studio 2015\Projects\Unidad1 Ejemplos\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\mauricio\documents\visual studio 2015\Projects\Unidad1 Ejemplos\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\mauricio\documents\visual studio 2015\Projects\Unidad1 Ejemplos\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\mauricio\documents\visual studio 2015\Projects\Unidad1 Ejemplos\ConsoleApplication1\obj\Debug\Ejemplo1.Consola.csprojResolveAssemblyReference.cache
+c:\users\mauricio\documents\visual studio 2015\Projects\Unidad1 Ejemplos\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\mauricio\documents\visual studio 2015\Projects\Unidad1 Ejemplos\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

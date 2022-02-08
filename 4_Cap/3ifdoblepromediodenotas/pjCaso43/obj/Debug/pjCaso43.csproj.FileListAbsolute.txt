@@ -1,0 +1,9 @@
+Z:\Projects\Cap4\3ifdoblepromediodenotas\pjCaso43\bin\Debug\pjCaso43.exe.config
+Z:\Projects\Cap4\3ifdoblepromediodenotas\pjCaso43\obj\Debug\pjCaso43.csprojResolveAssemblyReference.cache
+Z:\Projects\Cap4\3ifdoblepromediodenotas\pjCaso43\obj\Debug\pjCaso43.frmRegistro.resources
+Z:\Projects\Cap4\3ifdoblepromediodenotas\pjCaso43\obj\Debug\pjCaso43.Properties.Resources.resources
+Z:\Projects\Cap4\3ifdoblepromediodenotas\pjCaso43\obj\Debug\pjCaso43.csproj.GenerateResource.Cache
+Z:\Projects\Cap4\3ifdoblepromediodenotas\pjCaso43\bin\Debug\pjCaso43.exe
+Z:\Projects\Cap4\3ifdoblepromediodenotas\pjCaso43\bin\Debug\pjCaso43.pdb
+Z:\Projects\Cap4\3ifdoblepromediodenotas\pjCaso43\obj\Debug\pjCaso43.exe
+Z:\Projects\Cap4\3ifdoblepromediodenotas\pjCaso43\obj\Debug\pjCaso43.pdb

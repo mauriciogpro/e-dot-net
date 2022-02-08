@@ -1,0 +1,10 @@
+c:\users\maugo\documents\visual studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\maugo\Documents\Visual Studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+C:\Users\maugo\Documents\Visual Studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+C:\Users\maugo\Documents\Visual Studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.xml
+C:\Users\maugo\Documents\Visual Studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.vbprojResolveAssemblyReference.cache
+C:\Users\maugo\Documents\Visual Studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.Resources.resources
+C:\Users\maugo\Documents\Visual Studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.vbproj.GenerateResource.Cache
+C:\Users\maugo\Documents\Visual Studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+C:\Users\maugo\Documents\Visual Studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.xml
+C:\Users\maugo\Documents\Visual Studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
